@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Fri Dec 30 19:07:38 PST 2016
+lastInvokeShowLiveLog=false
+lastDeploymentFunctionName=HelloFunction
+lastDeploymentBucketName=pathshah-aws-new-0224-30dec
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
+lastInvokeInput=12
